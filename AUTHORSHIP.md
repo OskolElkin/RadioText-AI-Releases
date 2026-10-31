@@ -1,7 +1,7 @@
 # RadioText AI — Authorship and Public Feature Record
 
 **Public record created:** 2026-10-31 (UTC date; GitHub commit records the publication timestamp)  
-**Project author / independent developer:** Roman Elkin (Роман Элкин), GitHub: [OskolElkin](https://github.com/OskolElkin)  
+**Project author / independent developer:** Roman Elkin (Роман Елкин), GitHub: [OskolElkin](https://github.com/OskolElkin)  
 **Project:** RadioText AI, Android application, version **0.2.0 Beta**
 
 ## Publicly documented concept and distinctive feature
@@ -14,7 +14,7 @@ This combination and its development direction are documented here to create a d
 
 ## Публичная фиксация авторства и концепции
 
-**Автор проекта:** Роман Элкин (Roman Elkin), публичный профиль **OskolElkin**.
+**Автор проекта:** Роман Елкин (Roman Elkin), публичный профиль **OskolElkin**.
 
 **Название:** RadioText AI, Android-приложение, версия **0.2.0 Beta**.
 
