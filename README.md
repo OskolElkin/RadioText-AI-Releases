@@ -2,6 +2,12 @@
 
 Official distribution of **RadioText AI**, a free experimental Android app for live internet radio and speech-to-text transcription.
 
+## Install on Android / Установка на Android
+
+**New to APK files? / Впервые устанавливаете APK?** Follow the [step-by-step installation guide (Русский / English)](INSTALL.md). **No account is required to download. / Для скачивания регистрация не нужна.**
+
+Direct beta release: [RadioText AI v0.2.0 Beta — Assets → APK](https://github.com/OskolElkin/RadioText-AI-Releases/releases/tag/v0.2.0-beta).
+
 ## Version 0.2.0 Beta
 - Internet radio playback
 - Russian and English recognition using Vosk
