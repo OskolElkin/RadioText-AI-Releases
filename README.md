@@ -23,3 +23,12 @@ Only public distribution materials belong in this repository. Source code, signi
 RadioText AI — бесплатное экспериментальное Android-приложение для интернет-радио и преобразования речи в текст на русском и английском языках (Vosk). Включён экспериментальный поиск ключевых слов.
 
 Версия 0.2.0 Beta. Распознавание может содержать ошибки и задержки. Совместимость с TalkBack и масштабом шрифта 200% полностью не проверена. Не используйте для экстренной связи. Проверяйте SHA-256 скачанной APK.
+
+
+## Video Demonstration
+
+Watch RadioText AI 0.2.0 Beta running on a real Android device:
+
+[▶ Watch on YouTube](https://youtube.com/shorts/X1AaoZd3cdc)
+
+See the experimental internet radio player, live speech recognition, and keyword detection in action.
